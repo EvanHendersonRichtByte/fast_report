@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Fast Report",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Aplikasi ini dikembangkan untuk mempermudah proses laporan hasil kegiatan kepolisian",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
@@ -10,6 +10,7 @@
     "gatsby-plugin-image": "^2.13.0",
     "gatsby-plugin-manifest": "^4.13.0",
     "gatsby-plugin-offline": "^5.13.0",
+    "gatsby-plugin-pdf": "^0.0.1",
     "gatsby-plugin-react-helmet": "^5.13.0",
     "gatsby-plugin-sharp": "^4.13.0",
     "gatsby-source-filesystem": "^4.13.0",
